@@ -110,16 +110,24 @@ body {
     border-radius: 20px;
 }
 
-.w80 {
-    width: 80%;
-}
-
 .w70 {
     width: 70%;
 }
 
+.w65 {
+    width: 65%;
+}
+
 .w50 {
     width: 50%;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.w35 {
+    width: 35%;
 }
 
 /* Resume Button */
