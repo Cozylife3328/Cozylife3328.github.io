@@ -24,12 +24,14 @@ HTML: Basic
 Git: Basic
 
 ## Projects
+### RLHF
 - Summary: 강화학습을 활용한 LLM 파인튜닝
 - Period: 26-05-12 ~ 26-05-24
 - Tech Stack: GRPO, Information Bottleneck
 - Role: leader
 - Key Features: 보상해킹 완화, Critic network 제거로 메모리 부담 완화
 
+### Rougelike card game agent
 - Summary: 로그라이크 카드 게임을 플레이하는 강화학습 에이전트
 - Period: 26-07-01 ~ 
 - Tech Stack: DQN, PPO, 
