@@ -4,49 +4,51 @@ title: "portfolio"
 ---
 
 ## About Me
-예시:
-인공지능공학을 전공하며 Computer Vision, Natural Language Processing, Data Analysis에 관심이 있습니다. 향후 AI 서비스 개발자 또는 AI 연구자로 성장하는 것을 목표로 합니다.
+인공지능공학을 전공하고 있습니다. 체스, 오목, 로그라이크 게임 강화학습 등에 관심이 있습니다. 
+
 ## Education
 - Chosun University
 - Department of Artificial Intelligence Engineering
 - Year: 3rd year
-- Relevant Coursework: Machine Learning, Deep Learning, Data Structures, Web Programming
-- GPA: 4.1 / 4.5 (Optional)
-## Skills
-- Programming: Python, JavaScript, C/C++
-- AI / ML: PyTorch, TensorFlow, scikit-learn
-- Web: HTML, CSS, React- Tools: Git, GitHub, VS Code, Docker
-- Database: MySQL, SQLite
-숙련도 정도 추가
+- Relevant Coursework: Machine Learning, Deep Learning, Object-Oriented Programming, Algorithm, Data Structure
+- GPA: 4.3 / 4.5
 
+## Skills
+Java: Intermediate
+C/C++: Intermedidate
 Python: Intermediate
 PyTorch: Basic
+Scikit-learn: Basic
+Matlab: Basic
+HTML: Basic
 Git: Basic
-React: Basic
+
 ## Projects
-- Summary: 한 줄 요약
-- Period: 수행 기간
-- Tech Stack: 사용 기술
-- Role: 본인 역할- Key Features: 주요 기능
-- Results: 결과 또는 성과
-- GitHub: 링크- Demo / Image: 결과 이미지 또는 데모 링크
+- Summary: 강화학습을 활용한 LLM 파인튜닝
+- Period: 26-05-12 ~ 26-05-24
+- Tech Stack: GRPO, Information Bottleneck
+- Role: leader
+- Key Features: 보상해킹 완화, Critic network 제거로 메모리 부담 완화
+
+- Summary: 로그라이크 카드 게임을 플레이하는 강화학습 에이전트
+- Period: 26-07-01 ~ 
+- Tech Stack: DQN, PPO, 
+- Role: leader
+- Key Features: 카드 게임에서의 최적 전략 탐색
+
 ## Experience
-- AI Lab Undergraduate Intern
-- Programming Club Member
-- Capstone Design Team Project
-- AI Competition Participant
+- University Software Membership
+- AI Entrepreneurship Club Member
+- College Team Study
+  
 ## CV / Resume
+
 ## Contact
- - Email
- - Github
+ - Email: cozylife3328@gmail.com
+ - Github: https://github.com/Cozylife3328
+   
 ## Career Goal / Future Plan
 - AI Developer
+- 1인 개발
 - Data Scientist
-- Computer Vision Engineer
-- Graduate School / Research Track
-
-
-
-
-
-
+- Graduate School
